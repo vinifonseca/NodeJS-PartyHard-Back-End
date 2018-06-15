@@ -5,7 +5,7 @@ npm start
 
 Mongo running on: locahost:27017
 
-Collection:partys 
+Collection:partys  
 JSON Model:
 ```
 {
@@ -23,7 +23,7 @@ JSON Model:
 ```
 
 
-Collection:users 
+Collection:users  
 JSON Model:
 ```
 {
