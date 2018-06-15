@@ -1,6 +1,6 @@
 # NodeJS-PartyHard-Back-End
 
-npm i
+npm i  
 npm start
 
 Mongo running on: locahost:27017
