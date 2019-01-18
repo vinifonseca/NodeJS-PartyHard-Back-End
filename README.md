@@ -33,3 +33,5 @@ JSON Model:
     "__v" : 0
 }
 ```
+Create DB Index
+``` db.getCollection('partys').createIndex({point:"2dsphere"}); ```
